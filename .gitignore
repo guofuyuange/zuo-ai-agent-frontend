@@ -32,11 +32,6 @@ dist-ssr
 *.sln
 *.sw?
 
-# Docker
-Dockerfile
-docker-compose.yml
-.dockerignore
-
 # Temporary files
 tmp/
 .cache/
